@@ -24,6 +24,7 @@
     methods: {
         handleSubmit() {
             console.log('tresting handleSubmit')
+            this.$emit('add:employee', this.employee)
         }
     }
   }
