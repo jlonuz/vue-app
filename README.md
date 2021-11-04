@@ -1,6 +1,7 @@
 # vue-app
 Here a basic Vue CRUD app to understand the basics about Vue.js
-Here is the tutorial that i follow:
+```
+Here is the tutorial that i followed:
 https://www.taniarascia.com/getting-started-with-vue/
 
 ## Project setup
